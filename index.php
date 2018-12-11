@@ -270,7 +270,7 @@ function parser(){
       }
 
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhMdqjVFEnSdvx3fqW-3l1E86zkXSvciA&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOURAPIHERE&callback=initMap"
     async defer></script>
   </body>
 </html>
